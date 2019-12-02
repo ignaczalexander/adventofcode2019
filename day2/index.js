@@ -33,5 +33,3 @@ const part2 = () => {
   }
   return result;
 }
-
-console.log('part2', part2());
